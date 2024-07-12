@@ -65,7 +65,7 @@
   padding: 0;
   height: 550px;
   width: 100%;
-  background-image: url("prime1.jpg");
+  background-image: url("./imgs/prime1.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   display: flex;
@@ -104,7 +104,7 @@
   padding: 0;
   height: 550px;
   width: 100%;
-  background-image: url("prime2.jpg");
+  background-image: url("./imgs/prime2.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   display: flex;
